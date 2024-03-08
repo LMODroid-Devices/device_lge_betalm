@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_betalm.mk
+    $(LOCAL_DIR)/lmodroid_betalm.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_betalm-eng \
-    lineage_betalm-user \
-    lineage_betalm-userdebug
+    lmodroid_betalm-eng \
+    lmodroid_betalm-user \
+    lmodroid_betalm-userdebug
